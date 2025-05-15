@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: mi_paquete_ejemplo
+Version: 0.1
+Summary: Un ejemplo simple de paquete
+Author: Tu Nombre
+Author-email: tunombre@example.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

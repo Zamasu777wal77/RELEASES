@@ -1,0 +1,7 @@
+README.md
+setup.py
+RELEASES/__init__.py
+mi_paquete_ejemplo.egg-info/PKG-INFO
+mi_paquete_ejemplo.egg-info/SOURCES.txt
+mi_paquete_ejemplo.egg-info/dependency_links.txt
+mi_paquete_ejemplo.egg-info/top_level.txt
